@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StarToonActivity" parent="Theme.AppCompat.Light">
+        <!-- Customize your light theme here. -->
+
+        <item name="colorPrimaryDark">#002647</item>
+        <item name="android:textColorPrimary">#002647</item>
+        <item name="android:textColorSecondary">#002647</item>
+
+    </style>
+
+    <style name="Theme.StarToonActivity" parent="Base.Theme.StarToonActivity" >
+
+        <item name="android:textColorPrimary">#002647</item>
+        <item name="android:textColorSecondary">#002647</item>
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">StarToonActivity</string>
+    <string name="goal_reached">Goal reached</string>
+    <string name="emg">EMG</string>
+    <string name="rom">ROM</string>
+    <string name="mail_id">Mail ID</string>
+    <string name="patient_id">Patient ID:</string>
+    <string name="_87_20200727153457">87 20200727153457</string>
+    <string name="affected_side">Affected Side</string>
+    <string name="billateral">Billateral</string>
+    <string name="rom2">ROM</string>
+    <string name="ortho">Ortho</string>
+    <string name="condition">Condition</string>
+    <string name="speciality">Speciality</string>
+    <string name="emgw">EMG</string>
+    <string name="osteoarthritis">Osteoarthritis</string>
+    <string name="medical_history">Medical History</string>
+    <string name="_40">40%</string>
+    <string name="hypertension_dm_hypothyrodism">Hypertension,DM,Hypothyrodism</string>
+    <string name="s_meena">S.Meena,</string>
+    <string name="_8022334455">8022334455</string>
+    <string name="phone_no">Phone no.</string>
+    <string name="f_23">F/23</string>
+    <string name="ao">ao</string>
+    <string name="meenarabinsachin2_gmail_com">meenarabinsachin2@gmail.com</string>
+</resources>
